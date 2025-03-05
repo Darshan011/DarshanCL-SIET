@@ -65,7 +65,7 @@
                         <p><strong>Cess (4%):</strong> ₹${response.cess.toFixed(2)}</p>
                         <p><strong>Total Tax Payable:</strong> ₹${response.totalTaxPayable.toFixed(2)}</p>
                     `);
-                    loadHistory(); // Refresh history after calculation
+                    loadHistory(); 
                 },
                 error: function (xhr) {
                     alert(xhr.responseText);
@@ -97,7 +97,7 @@
         }
 
         $(document).ready(function () {
-            loadHistory(); // Load history on page load
+            loadHistory(); 
         });
     </script>
 }

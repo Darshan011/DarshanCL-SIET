@@ -19,18 +19,18 @@ namespace ReportTA.Controllers
             _context = context;
         }
 
-        // GET: UserLogins
+        
         public async Task<IActionResult> Index()
         {
             if (string.IsNullOrEmpty(HttpContext.Session.GetString("UserId")))
             {
-                return RedirectToAction("Login"); // Redirect to Login if not authenticated
+                return RedirectToAction("Login"); 
             }
 
             return View(await _context.UserLogins.ToListAsync());
         }
 
-        // GET: UserLogins/Create
+        
         public IActionResult Create()
         {
             return View();
@@ -90,13 +90,13 @@ namespace ReportTA.Controllers
             HttpContext.Session.SetString("UserName", user.Name);
             HttpContext.Session.SetString("UserRole", user.role);
 
-            return RedirectToAction("Index", "Home"); // Redirect after login
+            return RedirectToAction("Index", "Home"); 
         }
 
         public IActionResult Logout()
         {
-            HttpContext.Session.Clear(); // ✅ Remove session data
-            return RedirectToAction("Login"); // ✅ Redirect to Login page
+            HttpContext.Session.Clear(); 
+            return RedirectToAction("Login"); 
         }
 
         private bool UserLoginExists(int id)
