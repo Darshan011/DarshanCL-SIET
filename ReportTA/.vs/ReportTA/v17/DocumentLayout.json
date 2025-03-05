@@ -1,0 +1,366 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Darshan\\source\\repos\\ReportTA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96073D5A-C912-44FF-807A-56C60722E62B}|ReportTA\\ReportTA.csproj|c:\\users\\darshan\\source\\repos\\reportta\\reportta\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96073D5A-C912-44FF-807A-56C60722E62B}|ReportTA\\ReportTA.csproj|solutionrelative:reportta\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96073D5A-C912-44FF-807A-56C60722E62B}|ReportTA\\ReportTA.csproj|c:\\users\\darshan\\source\\repos\\reportta\\reportta\\controllers\\taxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96073D5A-C912-44FF-807A-56C60722E62B}|ReportTA\\ReportTA.csproj|solutionrelative:reportta\\controllers\\taxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96073D5A-C912-44FF-807A-56C60722E62B}|ReportTA\\ReportTA.csproj|c:\\users\\darshan\\source\\repos\\reportta\\reportta\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96073D5A-C912-44FF-807A-56C60722E62B}|ReportTA\\ReportTA.csproj|solutionrelative:reportta\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96073D5A-C912-44FF-807A-56C60722E62B}|ReportTA\\ReportTA.csproj|c:\\users\\darshan\\source\\repos\\reportta\\reportta\\controllers\\userloginscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96073D5A-C912-44FF-807A-56C60722E62B}|ReportTA\\ReportTA.csproj|solutionrelative:reportta\\controllers\\userloginscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96073D5A-C912-44FF-807A-56C60722E62B}|ReportTA\\ReportTA.csproj|c:\\users\\darshan\\source\\repos\\reportta\\reportta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96073D5A-C912-44FF-807A-56C60722E62B}|ReportTA\\ReportTA.csproj|solutionrelative:reportta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96073D5A-C912-44FF-807A-56C60722E62B}|ReportTA\\ReportTA.csproj|c:\\users\\darshan\\source\\repos\\reportta\\reportta\\views\\tax\\calculate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96073D5A-C912-44FF-807A-56C60722E62B}|ReportTA\\ReportTA.csproj|solutionrelative:reportta\\views\\tax\\calculate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96073D5A-C912-44FF-807A-56C60722E62B}|ReportTA\\ReportTA.csproj|c:\\users\\darshan\\source\\repos\\reportta\\reportta\\views\\tax\\taxindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96073D5A-C912-44FF-807A-56C60722E62B}|ReportTA\\ReportTA.csproj|solutionrelative:reportta\\views\\tax\\taxindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96073D5A-C912-44FF-807A-56C60722E62B}|ReportTA\\ReportTA.csproj|c:\\users\\darshan\\source\\repos\\reportta\\reportta\\views\\tax\\gettaxhistory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96073D5A-C912-44FF-807A-56C60722E62B}|ReportTA\\ReportTA.csproj|solutionrelative:reportta\\views\\tax\\gettaxhistory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96073D5A-C912-44FF-807A-56C60722E62B}|ReportTA\\ReportTA.csproj|c:\\users\\darshan\\source\\repos\\reportta\\reportta\\models\\taxrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96073D5A-C912-44FF-807A-56C60722E62B}|ReportTA\\ReportTA.csproj|solutionrelative:reportta\\models\\taxrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96073D5A-C912-44FF-807A-56C60722E62B}|ReportTA\\ReportTA.csproj|c:\\users\\darshan\\source\\repos\\reportta\\reportta\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96073D5A-C912-44FF-807A-56C60722E62B}|ReportTA\\ReportTA.csproj|solutionrelative:reportta\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96073D5A-C912-44FF-807A-56C60722E62B}|ReportTA\\ReportTA.csproj|c:\\users\\darshan\\source\\repos\\reportta\\reportta\\migrations\\20250305122132_init12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96073D5A-C912-44FF-807A-56C60722E62B}|ReportTA\\ReportTA.csproj|solutionrelative:reportta\\migrations\\20250305122132_init12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96073D5A-C912-44FF-807A-56C60722E62B}|ReportTA\\ReportTA.csproj|c:\\users\\darshan\\source\\repos\\reportta\\reportta\\dto\\userlogin\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96073D5A-C912-44FF-807A-56C60722E62B}|ReportTA\\ReportTA.csproj|solutionrelative:reportta\\dto\\userlogin\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96073D5A-C912-44FF-807A-56C60722E62B}|ReportTA\\ReportTA.csproj|c:\\users\\darshan\\source\\repos\\reportta\\reportta\\reportta.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{96073D5A-C912-44FF-807A-56C60722E62B}|ReportTA\\ReportTA.csproj|solutionrelative:reportta\\reportta.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96073D5A-C912-44FF-807A-56C60722E62B}|ReportTA\\ReportTA.csproj|c:\\users\\darshan\\source\\repos\\reportta\\reportta\\views\\userlogins\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96073D5A-C912-44FF-807A-56C60722E62B}|ReportTA\\ReportTA.csproj|solutionrelative:reportta\\views\\userlogins\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96073D5A-C912-44FF-807A-56C60722E62B}|ReportTA\\ReportTA.csproj|c:\\users\\darshan\\source\\repos\\reportta\\reportta\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96073D5A-C912-44FF-807A-56C60722E62B}|ReportTA\\ReportTA.csproj|solutionrelative:reportta\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96073D5A-C912-44FF-807A-56C60722E62B}|ReportTA\\ReportTA.csproj|c:\\users\\darshan\\source\\repos\\reportta\\reportta\\models\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96073D5A-C912-44FF-807A-56C60722E62B}|ReportTA\\ReportTA.csproj|solutionrelative:reportta\\models\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96073D5A-C912-44FF-807A-56C60722E62B}|ReportTA\\ReportTA.csproj|c:\\users\\darshan\\source\\repos\\reportta\\reportta\\views\\userlogins\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96073D5A-C912-44FF-807A-56C60722E62B}|ReportTA\\ReportTA.csproj|solutionrelative:reportta\\views\\userlogins\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96073D5A-C912-44FF-807A-56C60722E62B}|ReportTA\\ReportTA.csproj|c:\\users\\darshan\\source\\repos\\reportta\\reportta\\views\\userlogins\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96073D5A-C912-44FF-807A-56C60722E62B}|ReportTA\\ReportTA.csproj|solutionrelative:reportta\\views\\userlogins\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96073D5A-C912-44FF-807A-56C60722E62B}|ReportTA\\ReportTA.csproj|c:\\users\\darshan\\source\\repos\\reportta\\reportta\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{96073D5A-C912-44FF-807A-56C60722E62B}|ReportTA\\ReportTA.csproj|solutionrelative:reportta\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96073D5A-C912-44FF-807A-56C60722E62B}|ReportTA\\ReportTA.csproj|c:\\users\\darshan\\source\\repos\\reportta\\reportta\\migrations\\20250305093400_ini.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96073D5A-C912-44FF-807A-56C60722E62B}|ReportTA\\ReportTA.csproj|solutionrelative:reportta\\migrations\\20250305093400_ini.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 316,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Darshan\\source\\repos\\ReportTA\\ReportTA\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ReportTA\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Darshan\\source\\repos\\ReportTA\\ReportTA\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ReportTA\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T09:43:12.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Darshan\\source\\repos\\ReportTA\\ReportTA\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ReportTA\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Darshan\\source\\repos\\ReportTA\\ReportTA\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "ReportTA\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T13:41:24.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaxController.cs",
+              "DocumentMoniker": "C:\\Users\\Darshan\\source\\repos\\ReportTA\\ReportTA\\Controllers\\TaxController.cs",
+              "RelativeDocumentMoniker": "ReportTA\\Controllers\\TaxController.cs",
+              "ToolTip": "C:\\Users\\Darshan\\source\\repos\\ReportTA\\ReportTA\\Controllers\\TaxController.cs",
+              "RelativeToolTip": "ReportTA\\Controllers\\TaxController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T12:22:23.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserLoginsController.cs",
+              "DocumentMoniker": "C:\\Users\\Darshan\\source\\repos\\ReportTA\\ReportTA\\Controllers\\UserLoginsController.cs",
+              "RelativeDocumentMoniker": "ReportTA\\Controllers\\UserLoginsController.cs",
+              "ToolTip": "C:\\Users\\Darshan\\source\\repos\\ReportTA\\ReportTA\\Controllers\\UserLoginsController.cs",
+              "RelativeToolTip": "ReportTA\\Controllers\\UserLoginsController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAYwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T09:59:14.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaxIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\Darshan\\source\\repos\\ReportTA\\ReportTA\\Views\\Tax\\TaxIndex.cshtml",
+              "RelativeDocumentMoniker": "ReportTA\\Views\\Tax\\TaxIndex.cshtml",
+              "ToolTip": "C:\\Users\\Darshan\\source\\repos\\ReportTA\\ReportTA\\Views\\Tax\\TaxIndex.cshtml",
+              "RelativeToolTip": "ReportTA\\Views\\Tax\\TaxIndex.cshtml",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAgwGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T14:25:01.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Darshan\\source\\repos\\ReportTA\\ReportTA\\Program.cs",
+              "RelativeDocumentMoniker": "ReportTA\\Program.cs",
+              "ToolTip": "C:\\Users\\Darshan\\source\\repos\\ReportTA\\ReportTA\\Program.cs",
+              "RelativeToolTip": "ReportTA\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T09:31:18.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetTaxHistory.cshtml",
+              "DocumentMoniker": "C:\\Users\\Darshan\\source\\repos\\ReportTA\\ReportTA\\Views\\Tax\\GetTaxHistory.cshtml",
+              "RelativeDocumentMoniker": "ReportTA\\Views\\Tax\\GetTaxHistory.cshtml",
+              "ToolTip": "C:\\Users\\Darshan\\source\\repos\\ReportTA\\ReportTA\\Views\\Tax\\GetTaxHistory.cshtml",
+              "RelativeToolTip": "ReportTA\\Views\\Tax\\GetTaxHistory.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T14:13:09.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Darshan\\source\\repos\\ReportTA\\ReportTA\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ReportTA\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Darshan\\source\\repos\\ReportTA\\ReportTA\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ReportTA\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T09:22:50.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Calculate.cshtml",
+              "DocumentMoniker": "C:\\Users\\Darshan\\source\\repos\\ReportTA\\ReportTA\\Views\\Tax\\Calculate.cshtml",
+              "RelativeDocumentMoniker": "ReportTA\\Views\\Tax\\Calculate.cshtml",
+              "ToolTip": "C:\\Users\\Darshan\\source\\repos\\ReportTA\\ReportTA\\Views\\Tax\\Calculate.cshtml",
+              "RelativeToolTip": "ReportTA\\Views\\Tax\\Calculate.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAiwFgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T14:33:22.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TaxRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Darshan\\source\\repos\\ReportTA\\ReportTA\\Models\\TaxRequest.cs",
+              "RelativeDocumentMoniker": "ReportTA\\Models\\TaxRequest.cs",
+              "ToolTip": "C:\\Users\\Darshan\\source\\repos\\ReportTA\\ReportTA\\Models\\TaxRequest.cs",
+              "RelativeToolTip": "ReportTA\\Models\\TaxRequest.cs",
+              "ViewState": "AgIAAAUAAABGMzMzMzM5wA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T12:19:12.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250305122132_init12.cs",
+              "DocumentMoniker": "C:\\Users\\Darshan\\source\\repos\\ReportTA\\ReportTA\\Migrations\\20250305122132_init12.cs",
+              "RelativeDocumentMoniker": "ReportTA\\Migrations\\20250305122132_init12.cs",
+              "ToolTip": "C:\\Users\\Darshan\\source\\repos\\ReportTA\\ReportTA\\Migrations\\20250305122132_init12.cs",
+              "RelativeToolTip": "ReportTA\\Migrations\\20250305122132_init12.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T12:21:32.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Darshan\\source\\repos\\ReportTA\\ReportTA\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ReportTA\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Darshan\\source\\repos\\ReportTA\\ReportTA\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ReportTA\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T09:58:23.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Darshan\\source\\repos\\ReportTA\\ReportTA\\Views\\UserLogins\\Register.cshtml",
+              "RelativeDocumentMoniker": "ReportTA\\Views\\UserLogins\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Darshan\\source\\repos\\ReportTA\\ReportTA\\Views\\UserLogins\\Register.cshtml",
+              "RelativeToolTip": "ReportTA\\Views\\UserLogins\\Register.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T10:46:10.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Darshan\\source\\repos\\ReportTA\\ReportTA\\Views\\UserLogins\\Create.cshtml",
+              "RelativeDocumentMoniker": "ReportTA\\Views\\UserLogins\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Darshan\\source\\repos\\ReportTA\\ReportTA\\Views\\UserLogins\\Create.cshtml",
+              "RelativeToolTip": "ReportTA\\Views\\UserLogins\\Create.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T10:46:23.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Darshan\\source\\repos\\ReportTA\\ReportTA\\Dto\\Userlogin\\Login.cs",
+              "RelativeDocumentMoniker": "ReportTA\\Dto\\Userlogin\\Login.cs",
+              "ToolTip": "C:\\Users\\Darshan\\source\\repos\\ReportTA\\ReportTA\\Dto\\Userlogin\\Login.cs",
+              "RelativeToolTip": "ReportTA\\Dto\\Userlogin\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T12:15:00.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReportTA.csproj",
+              "DocumentMoniker": "C:\\Users\\Darshan\\source\\repos\\ReportTA\\ReportTA\\ReportTA.csproj",
+              "RelativeDocumentMoniker": "ReportTA\\ReportTA.csproj",
+              "ToolTip": "C:\\Users\\Darshan\\source\\repos\\ReportTA\\ReportTA\\ReportTA.csproj",
+              "RelativeToolTip": "ReportTA\\ReportTA.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-05T09:17:46.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Darshan\\source\\repos\\ReportTA\\ReportTA\\Views\\UserLogins\\Login.cshtml",
+              "RelativeDocumentMoniker": "ReportTA\\Views\\UserLogins\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Darshan\\source\\repos\\ReportTA\\ReportTA\\Views\\UserLogins\\Login.cshtml",
+              "RelativeToolTip": "ReportTA\\Views\\UserLogins\\Login.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T11:32:51.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Darshan\\source\\repos\\ReportTA\\ReportTA\\Models\\UserLogin.cs",
+              "RelativeDocumentMoniker": "ReportTA\\Models\\UserLogin.cs",
+              "ToolTip": "C:\\Users\\Darshan\\source\\repos\\ReportTA\\ReportTA\\Models\\UserLogin.cs",
+              "RelativeToolTip": "ReportTA\\Models\\UserLogin.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T09:17:15.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Darshan\\source\\repos\\ReportTA\\ReportTA\\appsettings.json",
+              "RelativeDocumentMoniker": "ReportTA\\appsettings.json",
+              "ToolTip": "C:\\Users\\Darshan\\source\\repos\\ReportTA\\ReportTA\\appsettings.json",
+              "RelativeToolTip": "ReportTA\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-05T09:24:48.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20250305093400_ini.cs",
+              "DocumentMoniker": "C:\\Users\\Darshan\\source\\repos\\ReportTA\\ReportTA\\Migrations\\20250305093400_ini.cs",
+              "RelativeDocumentMoniker": "ReportTA\\Migrations\\20250305093400_ini.cs",
+              "ToolTip": "C:\\Users\\Darshan\\source\\repos\\ReportTA\\ReportTA\\Migrations\\20250305093400_ini.cs",
+              "RelativeToolTip": "ReportTA\\Migrations\\20250305093400_ini.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T09:34:01.139Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 212,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+﻿@{
+    ViewData["Title"] = "Tax Calculator";
+}
+
+<h2>Tax Calculator</h2>
+
+<div class="container">
+    <div class="form-group">
+        <label for="income">Enter Income:</label>
+        <input type="number" id="income" class="form-control" placeholder="Enter your income" required>
+    </div>
+
+    <div class="form-group">
+        <label for="regime">Select Regime:</label>
+        <select id="regime" class="form-control">
+            <option value="old">Old Regime</option>
+            <option value="new">New Regime</option>
+        </select>
+    </div>
+
+    <button class="btn btn-primary" onclick="calculateTax()">Calculate Tax</button>
+
+    <h3 class="mt-4">Tax Calculation Result:</h3>
+    <div id="result"></div>
+
+    <h3 class="mt-4">Tax Calculation History:</h3>
+    <table class="table table-bordered" id="historyTable">
+        <thead>
+            <tr>
+                <th>Income</th>
+                <th>Regime</th>
+                <th>Tax Amount</th>
+                <th>Cess</th>
+                <th>Total Tax Payable</th>
+                <th>Created At</th>
+            </tr>
+        </thead>
+        <tbody>
+        </tbody>
+    </table>
+</div>
+
+@section Scripts {
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        function calculateTax() {
+            var income = $("#income").val();
+            var regime = $("#regime").val();
+
+            if (!income || income <= 0) {
+                alert("Please enter a valid income amount.");
+                return;
+            }
+
+            $.ajax({
+                url: "/calculate",
+                type: "POST",
+                contentType: "application/json",
+                data: JSON.stringify({ income: parseFloat(income), regime: regime }),
+                success: function (response) {
+                    $("#result").html(`
+                        <p><strong>Income:</strong> ₹${response.income}</p>
+                        <p><strong>Regime:</strong> ${response.regime}</p>
+                        <p><strong>Tax Amount:</strong> ₹${response.taxAmount.toFixed(2)}</p>
+                        <p><strong>Cess (4%):</strong> ₹${response.cess.toFixed(2)}</p>
+                        <p><strong>Total Tax Payable:</strong> ₹${response.totalTaxPayable.toFixed(2)}</p>
+                    `);
+                    loadHistory(); // Refresh history after calculation
+                },
+                error: function (xhr) {
+                    alert(xhr.responseText);
+                }
+            });
+        }
+
+        function loadHistory() {
+            $.ajax({
+                url: "/history",
+                type: "GET",
+                success: function (data) {
+                    var historyHtml = "";
+                    data.forEach(tax => {
+                        historyHtml += `
+                            <tr>
+                                <td>₹${tax.income}</td>
+                                <td>${tax.regime}</td>
+                                <td>₹${tax.taxAmount.toFixed(2)}</td>
+                                <td>₹${tax.cess.toFixed(2)}</td>
+                                <td>₹${tax.totalTaxPayable.toFixed(2)}</td>
+                                <td>${new Date(tax.createdAt).toLocaleString()}</td>
+                            </tr>
+                        `;
+                    });
+                    $("#historyTable tbody").html(historyHtml);
+                }
+            });
+        }
+
+        $(document).ready(function () {
+            loadHistory(); // Load history on page load
+        });
+    </script>
+}
